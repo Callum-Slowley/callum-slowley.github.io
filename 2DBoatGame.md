@@ -1,1 +1,20 @@
+## Global Gam Jam 2020
+
+**Game description:** All alone in space, Systems constantly failing: How long will you last... The StarShip Harvey is stranded in space with minimal systems, unfortunatly you have drifted into an asteroid field and need to keep the basic systems left on the ship going. Whilst also avoiding the incoming asteroids.
+
+
+### 1. Intro
+For the 2020 global game jam the theme was "Repair". My Group created the game Outer Dark where you are the last remaining person alive on your ship. Your goal is to stay alive in the ship for as long as possible by fixing your ship and dodging  asteroids. 
+
+
+### 2. Assess assumptions on which statistical inference will be based
+
+
+### 3. Support the selection of appropriate statistical tools and techniques
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### 4. Provide a basis for further data collection through surveys or experiments
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
