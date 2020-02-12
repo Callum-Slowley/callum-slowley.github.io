@@ -4,7 +4,7 @@
 
 ### Projects
 
-[2D Boat Racing Game](/sample_page)
+[2D Boat Racing Game](/2DBoatGame)
 <img src="images/2D boat game.PNG?raw=true"/>
 
 ---
