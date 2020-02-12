@@ -8,7 +8,7 @@
 <img src="images/2D boat game.PNG?raw=true"/>
 
 ---
-[Global Game Jam 2020](/pdf/sample_presentation.pdf)
+[Global Game Jam 2020](/ggj2020)
 <img src="images/ggj2020.jpg?raw=true"/>
 
 ---
