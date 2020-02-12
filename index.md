@@ -9,7 +9,7 @@
 
 ---
 [Global Game Jam 2020](/ggj2020)
-<img src="images/ggj2020.jpg?raw=true"/>
+<img src="images/ggj2020.PNG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
