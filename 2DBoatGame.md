@@ -1,10 +1,10 @@
-## Global Gam Jam 2020
+## Boat Racing Game 
 
-**Game description:** All alone in space, Systems constantly failing: How long will you last... The StarShip Harvey is stranded in space with minimal systems, unfortunatly you have drifted into an asteroid field and need to keep the basic systems left on the ship going. Whilst also avoiding the incoming asteroids.
+**Game description:** 
 
 
 ### 1. Intro
-For the 2020 global game jam the theme was "Repair". My Group created the game Outer Dark where you are the last remaining person alive on your ship. Your goal is to stay alive in the ship for as long as possible by fixing your ship and dodging  asteroids. 
+This game is my first game i completed in unity, its a 2D boat racing game created in unity. The aim of the game is to collect rings to increase your score and 
 
 
 ### 2. Assess assumptions on which statistical inference will be based
