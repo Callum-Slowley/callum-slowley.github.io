@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[2D Boat Racing Game](/sample_page)
 <img src="images/2D boat game.PNG?raw=true"/>
 
 ---
