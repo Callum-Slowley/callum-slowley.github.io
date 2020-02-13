@@ -15,6 +15,6 @@ This game was created for my first module at Birmingham City University, the aim
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AWWKvWtbemk/0.jpg)](https://www.youtube.com/watch?v=AWWKvWtbemk)
 
 ### 4. Results 
-First 	70.40 / 100.00
+First: 	70.40 / 100.00
 
 
