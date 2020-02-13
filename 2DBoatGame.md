@@ -12,7 +12,7 @@ This game was created for my first module at Birmingham City University, the aim
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/watch?v=AWWKvWtbemk/0.jpg)](https://www.youtube.com/watch?v=watch?v=AWWKvWtbemk)
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
